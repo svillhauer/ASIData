@@ -40,7 +40,7 @@ The average daily sea ice extent from 1980-2021 is also included, along with val
 The intent behind this dataset is to visually analyze which decades substantially vary from the mean.   
 
 # eadecades
-The following dataset contains daily sea ice extent [10^6 * km^2] in East Antarctic, organized in columns by year from 1980-2021. 
+The following dataset contains daily sea ice extent [10^6 * km^2] in East Antarctica, organized in columns by year from 1980-2021. 
 The average daily sea ice extent from 1980-2021 is also included, along with values two standard deviations above and below the mean. 
 The intent behind this dataset is to visually analyze which decades substantially vary from the mean.   
 
